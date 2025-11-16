@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZakatPaymentApplication</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="copyright">Copyright (c) 2025 Syakirah</string>
+    <string name="about_text">This Application Help in Calculating The Value Of Gold, Total Zakat Payable and Current Gold Value per Gram by
+                              entering the information about Weight Of Gold, Type Of Gold and Current Gold.
+                               \n\n Name : Nur Syakirah Binti Mohd Nayan
+                               \n Student ID : 2023213936
+                               \n Group : RCDCS2405A
+                               \n Course Code : CS240
+                               \n URL : </string>
+</resources>
